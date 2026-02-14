@@ -58,11 +58,11 @@ button{
 <!-- Hidden YouTube music iframe -->
 <iframe
   id="music"
-  width="0"
-  height="0"
+  width="1"
+  height="1"
   src=""
   frameborder="0"
-  allow="autoplay">
+  allow="autoplay; encrypted-media">
 </iframe>
 
 <div id="intro" class="screen">
@@ -85,19 +85,20 @@ button{
 
 <div id="final" class="screen">
     <h1>Yea! Good choice!- আমি জানতাম!! 🥰</h1>
-    <!-- Replaced sticker with animated couple GIF -->
-    <img src="https://i.gifer.com/7efs.gif" alt="Couple Animated Sticker" width="300">
+    <!-- Cute animated couple GIF -->
+    <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" 
+         alt="Cute Couple Animation" width="300">
 </div>
 
 <script>
-// Set the YouTube Shorts as background music
-document.getElementById("music").src =
-    "https://www.youtube.com/embed/WeXVuFG9MZU?autoplay=1&loop=1&playlist=WeXVuFG9MZU&mute=0";
-
 // Start function for intro
 function start(){
     document.getElementById("intro").style.display="none";
     document.getElementById("loading").style.display="block";
+
+    // Set music src after user click to allow autoplay
+    document.getElementById("music").src =
+        "https://www.youtube.com/embed/WeXVuFG9MZU?autoplay=1&loop=1&playlist=WeXVuFG9MZU&mute=0";
 
     let percent = 0;
     let interval = setInterval(()=>{
@@ -154,3 +155,4 @@ function launchHearts(){
 
 </body>
 </html>
+
