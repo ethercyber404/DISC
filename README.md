@@ -87,8 +87,9 @@ button{
 <div id="final" class="screen">
     <h1>Yea! Good choice!- আমি জানতাম!!🥰</h1>
     <!-- Cute animated couple GIF -->
-[<img src="https://gifdb.com/gif/cute-animated-couple-i-love-you-jpt2cd82u5cw79my.html" width="300" alt="I Love You Couple GIF">](https://dl.glitter-graphics.com/pub/2561/2561941mue86g3ygg.gif
-)
+<img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" 
+     alt="Animated Cute Couple" width="300">
+
 
 
 </div>
