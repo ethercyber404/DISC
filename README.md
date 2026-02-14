@@ -86,8 +86,8 @@ button{
 <div id="final" class="screen">
     <h1>Yea! Good choice!- আমি জানতাম!! 🥰</h1>
     <!-- Cute animated couple GIF -->
-    <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" 
-         alt="Cute Couple Animation" width="300">
+<img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="300" alt="Cute Couple GIF">
+
 </div>
 
 <script>
