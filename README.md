@@ -82,7 +82,7 @@ button{
 
 <div id="question" class="screen">
     <h1>Will you be my Valentine?!😁💖</h1>
-    <h6>কেউ নাই! তাই তোমারে দিলাম 🫣|আর সুন্দর কেউ নাই list এ</h6>
+    <h6>জানি বিশ্বাস করবা না! তাই দিলাম😆</h6>
     <button id="yes">Yes😍</button>
     <button id="no">No!😌</button>
     <h6>Hints : The No! button is a Bit Say...🙈</h6>
