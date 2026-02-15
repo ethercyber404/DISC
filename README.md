@@ -71,7 +71,7 @@ button{
 </iframe>
 
 <div id="intro" class="screen">
-    <h1>HEY আলামিনের বউ😅</h1>
+    <h1>হেই আলামিনের বউ😅</h1>
     <button onclick="start()">Tap Koro..🙃</button>
 </div>
 
