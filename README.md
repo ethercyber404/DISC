@@ -91,8 +91,7 @@ button{
 <div id="final" class="screen">
     <h1>Yea! Good choice!- আমি জানতাম!!🥰</h1>
     <!-- Cute animated couple GIF -->
-       <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="250">
-</div>
+    <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="250">
 
 <script>
 // Start function for intro
