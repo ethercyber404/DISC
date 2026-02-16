@@ -66,7 +66,7 @@ button{
 <iframe
   id="music"
   width="0.1"
-  height="0.1"
+  height="1"
   src=""
   frameborder="0"
   allow="autoplay; encrypted-media"
